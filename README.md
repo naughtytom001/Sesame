@@ -1,3 +1,4 @@
+学习用的
 # Sesame
 
 [![License](https://img.shields.io/github/license/LazyImmortal/Sesame.svg)](LICENSE)
