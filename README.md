@@ -1,9 +1,9 @@
+## 💻本人不是专业的开发者，仅仅是一名热爱开源的爱好者，在这里学习，大家不要fork我的这个，因为可能有严重的问题，不听劝者后果自负
 # Sesame
 
-[![License](https://img.shields.io/github/license/LazyImmortal/Sesame.svg)](LICENSE)
-[![Latest Release](https://img.shields.io/github/release/LazyImmortal/Sesame.svg)](../../releases)
-[![All Releases Download](https://img.shields.io/github/downloads/LazyImmortal/Sesame/total.svg)](../../releases)
-[![Telegram](https://img.shields.io/static/v1?label=Telegram&message=Channel&color=0088cc)](https://t.me/Sesame_Channels)
+[![License](https://img.shields.io/github/license/naughtytom001/Sesame.svg)](LICENSE)
+[![Latest Release](https://img.shields.io/github/release/naughtytom001/Sesame.svg)](../../releases)
+[![All Releases Download](https://img.shields.io/github/downloads/naughtytom001/Sesame/total.svg)](../../releases)
 
 ## 为了大家的资金安全与个人信息安全，强烈建议
 1. 不要使用任何未开放源代码的修改版！
@@ -14,7 +14,7 @@
 感谢蚂蚁森林对绿化事业的贡献。快速收取蚂蚁森林能量，也为祖国的绿化事业出一份微薄之力~
 
 ### 版本特点
-1. 重构 系统架构，**功能与配置全部模块化**，以后添加功能**无需再开发配置页面，大幅降低开发门槛，并极大节省开发成本**，欢迎有兴趣的朋友参与开发，开发指南见[维基](https://github.com/TKaxv-7S/Sesame-TK/wiki)或如下图所示，非常欢迎大家提[PR](https://github.com/LazyImmortal/Sesame/pulls)
+1. 重构 系统架构，**功能与配置全部模块化**，以后添加功能**无需再开发配置页面，大幅降低开发门槛，并极大节省开发成本**，欢迎有兴趣的朋友参与开发，开发指南见[维基](https://github.com/TKaxv-7S/Sesame-TK/wiki)或如下图所示，非常欢迎大家提[PR](https://github.com/naughtytom001/Sesame/pulls)
    ![Sesame-TK开发指南](https://github.com/TKaxv-7S/Sesame-TK/assets/22593101/4d8451fe-2b7f-4f19-9439-b0afbf683510)
 2. 重构 **森林收能量代码**，大幅提升能量多的账号收取效率
 3. 重构 配置模块，**所有配置需要重新配置**，新配置文件名称为**config_v2.json**，旧配置文件未删除，可作参考
@@ -31,9 +31,9 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 授权说明
-本项目基于 [TKaxv-7S版Sesame](https://github.com/TKaxv-7S/Sesame-TK)、[constanline版XQuickEnergy](https://github.com/constanline/XQuickEnergy) 与 [pansong291版XQuickEnergy](https://github.com/pansong291/XQuickEnergy) 开发
+本项目基于 [naughtytom001版Sesame](https://github.com/naughtytom001)、[TKaxv-7S版Sesame](https://github.com/TKaxv-7S/Sesame-TK)、[constanline版XQuickEnergy](https://github.com/constanline/XQuickEnergy) 与 [pansong291版XQuickEnergy](https://github.com/pansong291/XQuickEnergy) 开发
 
-遵循 GPLv3 协议，并**禁止**用于任何商业用途、禁止二次修改后**闭源**发布
+遵循 GPLv3 协议，并禁止用于任何商业用途、禁止二次修改后闭源发布
 
 所有图片由 ༒激༙྇流༙྇泉༙྇༒ 授权使用
 
@@ -45,15 +45,16 @@
 - 鉴于项目的特殊性，开发团队可能在任何时间**停止更新**或**删除项目**
 
 ## 特别感谢
-- 感谢 这个项目的上一位维护者 [@TKaxv-7S](https://github.com/TKaxv-7S) 重构项目代码
+- 感谢 这个项目的上一位维护者 [@naughtytom001版Sesame](https://github.com/naughtytom001)
+- 感谢 [@TKaxv-7S](https://github.com/TKaxv-7S) 重构项目代码
 - 感谢 [@wh-990624](https://github.com/wh-990624) 重构并开发新UI
 - 感谢 ༒激༙྇流༙྇泉༙྇༒ 重新设计新UI
 - 感谢 更早的项目维护者 [@constanline](https://github.com/constanline) 、 [@pansong291](https://github.com/pansong291) 与其他维护者们的无私奉献
 
 ## 贡献者们
 
-<a href="https://github.com/LazyImmortal/Sesame/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=LazyImmortal/Sesame" />
+<a href="https://github.com/naughtytom001/Sesame/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=naughtytom001/Sesame" />
 </a>
 
 贡献名单使用 [contrib.rocks](https://contrib.rocks) 生成
