@@ -31,7 +31,7 @@
 6. 本APP如无意中侵犯了某个媒体或个人的知识产权，请来信或来电告之，作者将立即删除。
 
 ## 授权说明
-本项目基于 [naughtytom001版Sesame](https://github.com/naughtytom001)、[TKaxv-7S版Sesame](https://github.com/TKaxv-7S/Sesame-TK)、[constanline版XQuickEnergy](https://github.com/constanline/XQuickEnergy) 与 [pansong291版XQuickEnergy](https://github.com/pansong291/XQuickEnergy) 开发
+本项目基于 [LazyImmortal版Sesame](https://github.com/LazyImmortal)、[TKaxv-7S版Sesame](https://github.com/TKaxv-7S/Sesame-TK)、[constanline版XQuickEnergy](https://github.com/constanline/XQuickEnergy) 与 [pansong291版XQuickEnergy](https://github.com/pansong291/XQuickEnergy) 开发
 
 遵循 GPLv3 协议，并禁止用于任何商业用途、禁止二次修改后闭源发布
 
@@ -45,7 +45,7 @@
 - 鉴于项目的特殊性，开发团队可能在任何时间**停止更新**或**删除项目**
 
 ## 特别感谢
-- 感谢 这个项目的上一位维护者 [@naughtytom001版Sesame](https://github.com/naughtytom001)
+- 感谢 这个项目的上一位维护者 [@LazyImmortal版Sesame](https://github.com/LazyImmortal)
 - 感谢 [@TKaxv-7S](https://github.com/TKaxv-7S) 重构项目代码
 - 感谢 [@wh-990624](https://github.com/wh-990624) 重构并开发新UI
 - 感谢 ༒激༙྇流༙྇泉༙྇༒ 重新设计新UI
